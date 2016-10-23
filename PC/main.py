@@ -1,19 +1,27 @@
 import cv2
 import numpy as np
+import serial
+import time
 
 
+# Serial = serial.Serial('com21')
+# Serial.baudrate = 57600
+
+def send(param):
+    cmd = '@'
+    for para in param:
+        cmd += str(para)+','
+    cmd += '#'
+    print (cmd)
+    # Serial.write(cmd)
 
 
-
-
-
-cap = cv2.VideoCapture(0)
-
-while True:
-    ret,frame = cap.read()
-    cv2.imshow('frame',frame)
-    key = cv2.waitKey(1)&0xFF
-    if key == 27:
-        break
-
-cv2.destroyAllWindows()
+# time.sleep(5)
+value = [1000,500,1200,200,100]
+send(value)
+# time.sleep(5)
+value = [1500,1500,1000,100,80]
+send(value)
+# time.sleep(5)
+value = [0,10,100,10,20]
+send(value)
