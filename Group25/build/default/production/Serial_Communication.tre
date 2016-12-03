@@ -1,0 +1,64 @@
+ÀÄSerial_Communication
+   ÃÄMAIN  0/1328  Ram=11
+   ³  ÃÄ@cinit1  (Inline)  Ram=0
+   ³  ÃÄInit_Timer2  0/14  Ram=0
+   ³  ÃÄInit_Interrupts  0/16  Ram=0
+   ³  ÃÄInitial_Motor  0/76  Ram=48
+   ³  ÃÄInitial_Motor  0/76  Ram=48
+   ³  ÃÄInitial_Motor  0/76  Ram=48
+   ³  ÃÄ@delay_ms1  0/16  Ram=2
+   ³  ÃÄ@delay_ms1  0/16  Ram=2
+   ³  ÃÄ@delay_ms1  0/16  Ram=2
+   ³  ÃÄ@MUL3232  0/48  Ram=8
+   ³  ÃÄ@DIV3232A  0/84  Ram=8
+   ³  ÃÄMotorX  0/16  Ram=2
+   ³  ÃÄPID_pwm  0/414  Ram=57
+   ³  ³  ÃÄ@SI64TOF64  0/100  Ram=0
+   ³  ³  ÃÄ@ADDFF64  0/494  Ram=8
+   ³  ³  ÃÄ@MULFF64  0/272  Ram=0
+   ³  ³  ÃÄ@SI64TOF64  0/100  Ram=0
+   ³  ³  ÃÄ@MULFF64  0/272  Ram=0
+   ³  ³  ÃÄ@SI64TOF64  0/100  Ram=0
+   ³  ³  ÃÄ@MULFF64  0/272  Ram=0
+   ³  ³  ÃÄ@ADDFF64  0/494  Ram=8
+   ³  ³  ÃÄ@ADDFF64  0/494  Ram=8
+   ³  ³  ÃÄ@FLT64  0/132  Ram=0
+   ³  ³  ÃÄ@MULFF64  0/272  Ram=0
+   ³  ³  ÃÄ@FLT64  0/132  Ram=0
+   ³  ³  ÀÄ@F64TOSI64  0/86  Ram=0
+   ³  ÃÄPID_pwm  0/414  Ram=57
+   ³  ³  ÀÄ*
+   ³  ÃÄMotorY  0/16  Ram=2
+   ³  ÃÄPID_pwm  0/414  Ram=57
+   ³  ³  ÀÄ*
+   ³  ÃÄPID_pwm  0/414  Ram=57
+   ³  ³  ÀÄ*
+   ³  ÃÄ@PRINTFD16_9600_5725_5724  0/246  Ram=0
+   ³  ÃÄ@PRINTFD16_9600_5725_5724  0/246  Ram=0
+   ³  ÃÄMotorZ  0/16  Ram=2
+   ³  ÃÄPID_pwm  0/414  Ram=57
+   ³  ³  ÀÄ*
+   ³  ÃÄPID_pwm  0/414  Ram=57
+   ³  ³  ÀÄ*
+   ³  ÃÄServo_Keep  0/74  Ram=4
+   ³  ÃÄ@delay_ms1  0/16  Ram=2
+   ³  ÃÄMotorZ  0/16  Ram=2
+   ³  ÃÄMotorX  0/16  Ram=2
+   ³  ÃÄMotorY  0/16  Ram=2
+   ³  ÃÄMotorZ  0/16  Ram=2
+   ³  ÃÄ@delay_ms1  0/16  Ram=2
+   ³  ÃÄMotorX  0/16  Ram=2
+   ³  ÃÄ@delay_ms1  0/16  Ram=2
+   ³  ÃÄMotorY  0/16  Ram=2
+   ³  ÃÄ@delay_ms1  0/16  Ram=2
+   ³  ÃÄMotorZ  0/16  Ram=2
+   ³  ÃÄMotorX  0/16  Ram=2
+   ³  ÃÄMotorY  0/16  Ram=2
+   ³  ÃÄMotorZ  0/16  Ram=2
+   ³  ÀÄ@delay_ms1  0/16  Ram=2
+   ÃÄUART1_ISR  0/48  Ram=1
+   ³  ÀÄSM_RxD  0/180  Ram=4
+   ÃÄINT_EXT_INPUT0  0/44  Ram=2
+   ÃÄINT_EXT_INPUT1  0/44  Ram=2
+   ÃÄINT_EXT_INPUT2  0/44  Ram=2
+   ÀÄTimer2_ISR  0/38  Ram=0

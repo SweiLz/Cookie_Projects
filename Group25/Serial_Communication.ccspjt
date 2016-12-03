@@ -1,0 +1,16 @@
+[PROJECT]
+Target=build\default\production\Serial_Communication.hex
+Processor_Text=PIC24FJ48GA002
+CCSVersion=5.015
+Compiler=PCD
+[Target Data]
+FileList=build\default\production\Serial_Communication.c
+[Directories]
+Include=D:\PICC\devices\;D:\PICC\drivers\
+[build\default\production\Serial_Communication.c]
+Type=4
+[mru-list]
+1=build\default\production\Serial_Communication.c
+[Units]
+Count=1
+1=Serial_Communication (main)

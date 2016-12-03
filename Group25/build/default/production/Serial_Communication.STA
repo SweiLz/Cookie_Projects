@@ -1,0 +1,69 @@
+
+ROM used:   4354/33788 (13%)
+            4354/33788 (13%) including unused fragments
+
+            2.8 Average locations per line
+            12.3 Average locations per statement
+
+RAM used:   393/8192 (5%) at main() level
+            642/8192 (8%) worst case
+
+Stack size: 128
+
+Lines Stmts  %   Files
+----- ----- ---  -----
+  635   353 100  Serial_Communication.c
+  862     0   0  D:\PICC\devices\24FJ48GA002.h
+   33     0   0  BL_Support.h
+----- -----
+ 1530   353 Total
+
+Page ROM  %  RAM   Vol Diff  Functions:
+---- --- --- ---   --- ----  ----------
+0     16   0    2             @delay_ms1
+0    180   2    4  1365  8.8  SM_RxD
+0     48   1    1    40  1.7  UART1_ISR
+0     44   1    2    89  3.6  INT_EXT_INPUT0
+0     44   1    2    89  3.6  INT_EXT_INPUT1
+0     44   1    2    89  3.6  INT_EXT_INPUT2
+0    414   5   57   853  6.0  PID_pwm
+0    100   1    0             @SI64TOF64
+0    494   6    8             @ADDFF64
+0    272   3    0             @MULFF64
+0    132   2    0             @FLT64
+0     86   1    0             @F64TOSI64
+0     38   0    0    50  1.5  Timer2_ISR
+0     14   0    0    52  1.9  Init_Timer2
+0     16   0    0   163  1.8  Init_Interrupts
+0     16   0    2    90  2.1  MotorX
+0     16   0    2    90  2.1  MotorY
+0     16   0    2    90  2.1  MotorZ
+0     74   1    4   464  3.4  Servo_Keep
+0     76   1   48   466  2.4  Initial_Motor
+0   1328  15   11 11120 11.0  MAIN
+0     48   1    8             @MUL3232
+0     84   1    8             @DIV3232A
+0    246   3    0             @PRINTFD16_9600_5725_5724
+ Inline         0             @cinit1
+
+Program metrics:
+    Functions               15
+    Statements              353
+    Comments                294
+    Volume (V)              19273
+    Difficulty (D)          59.3
+    Effort to implement (E) 1142701
+    Time to implement (T)   17 hours, 38 minutes
+    Est Delivered Bugs (B)  4
+    Cyclomatic Complexity   71
+    Maintainability (MI)    109
+
+ Segment     Used  Free
+-----------  ----  ----
+00000-00BFE     0  3072  
+00C00-00C02     4  0  
+00C04-00DFA   504  0  
+00DFC-083FA  3846  26362  
+
+
+
