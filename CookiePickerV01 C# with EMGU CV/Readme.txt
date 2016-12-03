@@ -25,5 +25,4 @@ https://www.youtube.com/watch?v=k7a08G3YyHM&feature=youtu.be
 
 If you want to know more ..... contact me
 facebook :Jirad Sreerattana-arporn
-line : jettanan
 e-mail : bird_create@hotmail.com
