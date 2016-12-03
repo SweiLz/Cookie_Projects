@@ -1,0 +1,16 @@
+D:\Lec\Fibo\Bootloader4CCS\ADCPlot\bin\Release\ADCPlot.exe.config
+D:\Lec\Fibo\Bootloader4CCS\ADCPlot\bin\Release\ADCPlot.exe
+D:\Lec\Fibo\Bootloader4CCS\ADCPlot\bin\Release\ADCPlot.pdb
+D:\Lec\Fibo\Bootloader4CCS\ADCPlot\obj\Release\ADCPlot.Form1.resources
+D:\Lec\Fibo\Bootloader4CCS\ADCPlot\obj\Release\ADCPlot.Properties.Resources.resources
+D:\Lec\Fibo\Bootloader4CCS\ADCPlot\obj\Release\ADCPlot.csproj.GenerateResource.Cache
+D:\Lec\Fibo\Bootloader4CCS\ADCPlot\obj\Release\ADCPlot.exe
+D:\Lec\Fibo\Bootloader4CCS\ADCPlot\obj\Release\ADCPlot.pdb
+D:\Dropbox\FRA361 Robotic Lab\SerialPort C#\bin\Release\ADCPlot.exe.config
+D:\Dropbox\FRA361 Robotic Lab\SerialPort C#\obj\Release\ADCPlot.exe
+D:\Dropbox\FRA361 Robotic Lab\SerialPort C#\obj\Release\ADCPlot.pdb
+D:\Dropbox\FRA361 Robotic Lab\SerialPort C#\bin\Release\ADCPlot.exe
+D:\Dropbox\FRA361 Robotic Lab\SerialPort C#\bin\Release\ADCPlot.pdb
+D:\Dropbox\FRA361 Robotic Lab\SerialPort C#\obj\Release\ADCPlot.Form1.resources
+D:\Dropbox\FRA361 Robotic Lab\SerialPort C#\obj\Release\ADCPlot.Properties.Resources.resources
+D:\Dropbox\FRA361 Robotic Lab\SerialPort C#\obj\Release\ADCPlot.csproj.GenerateResource.Cache
