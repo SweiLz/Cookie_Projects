@@ -6,6 +6,6 @@
 - น้ำส้ม [Pitchaporn Rewatbowornwong](https://www.facebook.com/namsom.rewatbowornwong)
 
 
-คลิกที่รูปเพื่อดูวีดีโอ
-
+คลิกที่เพื่อดูวีดีโอ
+https://www.youtube.com/watch?v=tvKu1ZJC_HA
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/tvKu1ZJC_HA/0.jpg)](https://www.youtube.com/watch?v=tvKu1ZJC_HA)
