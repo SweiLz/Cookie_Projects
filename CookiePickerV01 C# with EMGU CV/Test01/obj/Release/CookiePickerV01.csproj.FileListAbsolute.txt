@@ -1,0 +1,28 @@
+D:\Dropbox\FRA341 Embeded system design\C#\CookiePickerV01\Test01\bin\Release\Emgu.CV.DebuggerVisualizers.VS2015.dll
+D:\Dropbox\FRA341 Embeded system design\C#\CookiePickerV01\Test01\bin\Release\Emgu.CV.UI.dll
+D:\Dropbox\FRA341 Embeded system design\C#\CookiePickerV01\Test01\bin\Release\Emgu.CV.UI.GL.dll
+D:\Dropbox\FRA341 Embeded system design\C#\CookiePickerV01\Test01\bin\Release\Emgu.CV.World.dll
+D:\Dropbox\FRA341 Embeded system design\C#\CookiePickerV01\Test01\bin\Release\Microsoft.VisualStudio.DebuggerVisualizers.dll
+D:\Dropbox\FRA341 Embeded system design\C#\CookiePickerV01\Test01\bin\Release\ZedGraph.dll
+D:\Dropbox\FRA341 Embeded system design\C#\CookiePickerV01\Test01\bin\Release\Emgu.CV.UI.pdb
+D:\Dropbox\FRA341 Embeded system design\C#\CookiePickerV01\Test01\bin\Release\Emgu.CV.UI.xml
+D:\Dropbox\FRA341 Embeded system design\C#\CookiePickerV01\Test01\bin\Release\Emgu.CV.UI.GL.xml
+D:\Dropbox\FRA341 Embeded system design\C#\CookiePickerV01\Test01\bin\Release\Emgu.CV.World.pdb
+D:\Dropbox\FRA341 Embeded system design\C#\CookiePickerV01\Test01\bin\Release\Emgu.CV.World.xml
+D:\Dropbox\FRA341 Embeded system design\C#\CookiePickerV01\Test01\bin\Release\Microsoft.VisualStudio.DebuggerVisualizers.xml
+D:\Dropbox\FRA341 Embeded system design\C#\CookiePickerV01\Test01\bin\Release\ZedGraph.xml
+D:\Dropbox\FRA341 Embeded system design\C#\CookiePickerV01\Test01\bin\Release\zh-CN\Emgu.CV.UI.resources.dll
+D:\Dropbox\FRA341 Embeded system design\C#\CookiePickerV01\Test01\bin\Release\zh-CN\ZedGraph.resources.dll
+D:\Dropbox\FRA341 Embeded system design\C#\CookiePickerV01\Test01\obj\Release\Test01.Form1.resources
+D:\Dropbox\FRA341 Embeded system design\C#\CookiePickerV01\Test01\obj\Release\CookiePickerV01.csproj.GenerateResource.Cache
+D:\Dropbox\FRA341 Embeded system design\C#\CookiePickerV01\Test01\bin\Release\CookiePicker.exe.config
+D:\Dropbox\FRA341 Embeded system design\C#\CookiePickerV01\Test01\bin\Release\CookiePicker.exe
+D:\Dropbox\FRA341 Embeded system design\C#\CookiePickerV01\Test01\bin\Release\CookiePicker.pdb
+D:\Dropbox\FRA341 Embeded system design\C#\CookiePickerV01\Test01\obj\Release\CookiePicker.Properties.Resources.resources
+D:\Dropbox\FRA341 Embeded system design\C#\CookiePickerV01\Test01\obj\Release\CookiePicker.exe
+D:\Dropbox\FRA341 Embeded system design\C#\CookiePickerV01\Test01\obj\Release\CookiePicker.pdb
+D:\Dropbox\FRA341 Embeded system design\C#\CookiePickerV01\Test01\obj\Release\CookiePickerV01.csprojResolveAssemblyReference.cache
+D:\Dropbox\FRA341 Embeded system design\C#\CookiePickerV01\Test01\bin\Release\DirectShowLib-2005.dll
+D:\Dropbox\FRA341 Embeded system design\C#\CookiePickerV01 C# with EMGU CV\Test01\bin\Release\CookiePicker.exe.config
+D:\Dropbox\FRA341 Embeded system design\C#\CookiePickerV01 C# with EMGU CV\Test01\obj\Release\CookiePicker.exe
+D:\Dropbox\FRA341 Embeded system design\C#\CookiePickerV01 C# with EMGU CV\Test01\obj\Release\CookiePicker.pdb
